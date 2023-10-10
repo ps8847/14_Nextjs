@@ -1,0 +1,17 @@
+
+put api with static data 
+
+* use of put method api 
+* write put method in route api file 
+* get url params and payload
+* test put api with postman
+
+performed in respective folder : 
+
+    api route will be : http://localhost:3000/api/users/5  ,, method PUT
+
+    the body will be : {
+    "name" : "prince sharma",
+    "age" : 22,
+    "email" : "jhdjd@gmail.com"
+}

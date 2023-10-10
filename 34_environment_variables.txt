@@ -1,0 +1,9 @@
+
+what are environment variables ?
+
+    variables that are defiened for production and development environment accoridng to developer needs  .  they are noit gets exposed to user ever. we can add anything in them
+
+how to access environment variables 
+
+use environment varaibles 
+

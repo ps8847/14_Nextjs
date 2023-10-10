@@ -1,0 +1,32 @@
+
+tute willbe be perfromed in tuteperform5
+
+    we will simply make a new nextrjs project with this command : npx create-next-app appname
+        with these setup :
+
+        √ Would you like to use TypeScript? ... No / Yes
+        √ Would you like to use ESLint? ... No / Yes
+        √ Would you like to use Tailwind CSS? ... No / Yes
+        √ Would you like to use `src/` directory? ... No / Yes
+        √ Would you like to use App Router? (recommended) ... No / Yes
+        √ Would you like to customize the default import alias? ... No / Yes
+        Creating a new Next.js app in E:\Career Things\My All Courses\NextJs\tuteperform5.
+
+
+        we can access the default route with : http://localhost:3000/api/hello
+
+
+        // method 2 is just make simple netxjs app and make api folder in it  .. actully we will follow this way only ,, this method has globally higher usage and is easy to understand and integrate
+
+
+use of api routes ?
+
+    the amazing feature of nextjs where we cna make bakcend also in nextjs . we can make api routes here 
+
+make api route 
+
+performed in the folder
+
+test it with postman
+
+    http://localhost:3000/api/users    call this api form postman

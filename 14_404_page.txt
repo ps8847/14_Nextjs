@@ -1,0 +1,9 @@
+
+what is 404 page 
+    the page whoich is not accessible / exist thenn this erorr came
+
+make the global 404 page 
+    in the src/app make  the file not-found.js and write the code about 404 ...
+
+make route specific 404 page 
+    

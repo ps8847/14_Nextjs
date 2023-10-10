@@ -1,0 +1,6 @@
+make a delete api 
+
+* make api route function 
+* get id from url 
+* write code for delete api 
+* test api with postman

@@ -1,0 +1,21 @@
+
+what is build ?
+
+    any code which we code in  netxjs /reactjs its not udderstandable for hosting servers .  so we need to build them first with their particular commands.
+
+type of build 
+
+    developmment build 
+    production build
+
+what is production build 
+
+    a build which is uploaded to online hosting servrs to run our website in broweser 
+
+how to make proeduction build 
+
+    npm run build 
+
+run production build
+
+    type : npm start

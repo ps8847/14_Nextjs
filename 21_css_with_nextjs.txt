@@ -1,0 +1,10 @@
+
+* Global css 
+    a css which iwll be used everywhere .
+
+Here's no internal css in nextjs
+
+inline css 
+
+updtae style with a button 
+

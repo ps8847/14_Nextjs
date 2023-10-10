@@ -1,0 +1,13 @@
+
+* why use nextjs font 
+
+    it will optimize that , it will not loa dthe ofnt again and again and also will not show thet type of ofnt in network tab
+
+* how to usre a normla font 
+
+    performed in the folder with named folder ..  
+    just go to the netwokr tab , you will see a requets will be going for the fonts also 
+
+* how to use netjs font 
+
+    performed in the folder with named folder 

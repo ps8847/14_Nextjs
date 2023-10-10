@@ -1,0 +1,10 @@
+
+* what is middleware in nextjs routing 
+    it will be executes before completion of routing request . mostyly used a a example of login
+
+* make middlewrae in nextjs app 
+    for now it will in src fiolder not in src/app folder 
+
+    chekc it on 15_middleware_in_nextjs_perform
+
+    after that try to access the routes you will fele a change of rediurection 

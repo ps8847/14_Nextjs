@@ -1,0 +1,19 @@
+
+* what is nested routing 
+
+    Normal Routing                                             Nested Routing 
+
+    * Home                                                          * Home 
+    * About                                                         * About
+    * Login                                                             * About Student
+                                                                        * About College
+
+* make a nested routing 
+* make navigation between nested pages 
+* interview questions 
+
+
+
+* pattern for nested routing 
+
+    src / foldername / subfoldername / page.js

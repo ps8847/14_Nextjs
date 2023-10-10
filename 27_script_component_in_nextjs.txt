@@ -1,0 +1,7 @@
+* what is script component 
+
+    a component which will load any libraray for that particular component only .  npt for the whole project like script tag of html
+
+* how to use it ?
+
+* exmaple for script tag 

@@ -1,0 +1,147 @@
+Events , function and state 
+
+* event in next.js 
+
+    export default function Home() {
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <h1>events ,  function and state</h1>
+    <button onClick={() =>  alert("hello alert")}>click me</button>  // it will give error ...  to overocme this write 'use client' at top of the file
+        </main>
+    )
+    }
+
+    1) we only need to 'use client' at the parent page only
+    2) 'use client'  should be used at the top of the page only
+
+* make function and call 
+
+    'use client';
+
+    export default function Home() {
+
+    const demofunc = () => {
+        alert("heyy")
+    }
+
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <h1>events ,  function and state</h1>
+        <button onClick={demofunc}>Click me</button>
+        </main>
+    )
+    }
+
+* call component as function
+
+    'use client';
+
+    export default function Home() {
+
+    const demofunc = (name) => {
+        alert(name)
+    }
+
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <h1>events ,  function and state</h1>
+        <button onClick={() => demofunc("prince")}>Click me</button>
+        </main>
+    )
+    }
+
+
+* make state and update 
+
+    'use client';
+
+    import { useState } from "react";
+
+    export default function Home() {
+
+    const [name , setName] = useState("Prince");
+
+    const updateState = (name) => {
+        setName(name)
+    }
+
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <h1>events ,  function and state : {name}</h1>
+        <button onClick={() => updateState("Sharma Ji")}>Click me</button>
+        </main>
+    )
+    }
+
+
+* intrview wuestions 
+
+
+* what is use client in next js 
+    explained 
+    
+* how to call the functions in nextjs  
+
+    'use client';
+
+    export default function Home() {
+
+    const demofunc = () => {
+        alert("heyy")
+    }
+
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <h1>events ,  function and state</h1>
+        <button onClick={demofunc}>Click me</button>
+        </main>
+    )
+    }
+
+* make a componnet inside the component 
+
+    'use client';
+
+    export default function Home() {
+
+    const InnerComponent = () => {
+        return (
+        <h1>inenr component</h1>
+        )
+    }
+
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <h1>events ,  function and state </h1>
+
+        <InnerComponent />
+        </main>
+    )
+    }
+
+
+* call component as function 
+
+    'use client';
+
+    export default function Home() {
+
+    const InnerComponent = () => {
+        return (
+        <h1>inenr component</h1>
+        )
+    }
+
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <h1>events ,  function and state </h1>
+
+        <InnerComponent />
+        {InnerComponent()}
+        </main>
+    )
+    }
+
+
+* what is a state in react 
+

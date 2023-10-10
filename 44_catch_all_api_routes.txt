@@ -1,0 +1,11 @@
+catch all api routes 
+
+* what does mean by catch-all routes ?
+
+    to get the route params from api of any route ....  performed in folder : 
+
+* make route 
+* write code for catch-all route api 
+* test api
+
+    to test it just og to browser and type : http://localhost:3000/api/student/jgf/hjfvgv/kjgdhafdhgf/dgfsg

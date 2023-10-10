@@ -1,0 +1,17 @@
+
+call nextjs apis 
+
+    * make routes for screen 
+
+    * call user list api 
+
+    * display data 
+
+    * call user detail api 
+
+    * display user data 
+
+    * test api 
+
+
+Performed in respective folder

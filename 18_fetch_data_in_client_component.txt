@@ -1,0 +1,12 @@
+fetch dta in client component 
+
+* create product components 
+
+* make it client component 
+
+* add hooks 
+
+* call api
+
+
+All things pefrormed on 18_fetch_data_in_client_component_perform

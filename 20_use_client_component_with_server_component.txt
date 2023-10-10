@@ -1,0 +1,11 @@
+
+* why need client component inside server component 
+
+* make component 
+
+* pass data in component 
+
+* add events
+
+
+see the performed folder

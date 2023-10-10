@@ -1,0 +1,23 @@
+
+* make a folder for the new page 
+
+    Basic routing | make new page 
+        * localhost:3000/login 
+        * src/login/page.js 
+
+        * localhost:3000/about
+        * src/about/page.js
+
+    The folder name will match with the route name 
+    page.js should be present in every folder
+
+
+* make page file and write component code 
+* route example 
+* inetrview questions 
+
+
+* what is the pattern for creating page in nextjs 
+        src / app / your folder name / page.js
+* do we need to install any package for routing in nextjs 
+* nextjs uses a file system based router 

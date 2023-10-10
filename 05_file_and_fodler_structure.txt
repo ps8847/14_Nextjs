@@ -1,0 +1,20 @@
+
+* important files for beginners 
+
+    1) package.json is for downlaoding and running the commanbds pirpose for npm 
+    2) netx.config.js is for configuatrion of nextjs framework's configurations 
+    3) jsconfig.json is for configuration of javascript 
+    4) readme.md is for instructions purpose
+    5) package-lock.json it will kept the details of all the dependecies , even if you will delete this file it will not effect your appication
+    6) eslint.json it can define the rules of the applciation 
+    7) .next folder >  it will be made when we will run the applciation 
+    8) src > app > layout.js is the entry point of nextjs application 
+    
+
+* interview questions
+
+dependencies vs devdependencies 
+ -> depednencies will be used in production+development mode // devdepeendcies will be used in production mode only
+
+
+

@@ -1,0 +1,22 @@
+write post api 
+
+* make post api function 
+
+* write api response 
+
+* get request params 
+
+* apply validations checks 
+
+* test post with postman
+
+performed on respective folder
+
+        to test the post api : , go to postman and add this in body > json 
+
+        run a post requets as : http://localhost:3000/api/users
+            body = {
+                "name":"prince"
+                "age":23,
+                "email":"ps@gmail.com"
+            }

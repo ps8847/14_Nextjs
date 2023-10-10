@@ -1,0 +1,22 @@
+
+* what is ssg 
+
+    ssg is a technique to pre generate all kind of dynamic pages in a static manner 
+
+* make aa service file and call api
+
+    performed
+
+* display data from api 
+
+    performed
+
+* make dynamic routing 
+
+    with the folder as [fodlername]
+
+* make build with ssg
+
+    inside the [foldername]'s page.js use the method performed and then just : npm run build
+
+    to see the changes after go to .next/server/app/users/

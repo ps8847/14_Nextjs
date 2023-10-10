@@ -1,0 +1,55 @@
+the react framework for production  
+
+react ->  we will write the react code only (like components , props , state etc..)
+framework -> our own environment with a lot of features to make it easy for us to build super fast web apps (ex. file based routing)
+production -> nextjs helps us to create a production ready apps.
+
+
+what is NextJs ?
+
+Nextjs is a react framework that enables you to build superfast and extremely user friendly static website , as well as full fledge production ready web applications using react.
+
+in fact , thanks to automatic static optimization , "static" and "dynamic" become one now.
+
+this feature allows Next.js to build hybrid applications that contain both server-rendered and statically generated pages.
+
+* Its reatcjs framework for the wbe apps
+* it is based on reactjs library
+* but many extra features were added in the nextjs over reactjs 
+* like routing  ,  middlewares  etc.
+* next js is used for make single-page application
+
+
+why Next.js ?
+
+1) the big reason to choose next.js is its seo efficiency.
+2) it is using server-side rendering(SSR) And at the same time it can be also a great static site generator (SSG).
+3) nextjs websites are super fast , easy ot scan , and provide a great user experience and that's why google will favor them above others and rank them higher
+4) file based routing (pages/index.js)
+5) support for css modules (css for each pages)
+6) pre-rendering (better seo)
+7) image optimization ("/next/image")
+8) api route {`page/api/user.js`}
+9) typescript support , fast refresh (fast,live editing experience)
+10) dev & prod build system
+
+want to see it practically ? 
+
+open a react website .
+open a nextjs made website .
+
+Inspect the code of both :
+
+in react you'll not find any content
+but in nextjs you will find content
+
+
+What can we build with next.js ?
+
+1) MVP (minimum viable product)
+2) jamstack websites
+3) web portals
+4) single web pages , static websites 
+5) ecommerce and retail websites 
+6) Saas prodicts 
+7) complex and demanding web applications 

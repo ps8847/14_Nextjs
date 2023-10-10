@@ -1,0 +1,12 @@
+
+* why need loader in nextjs 
+
+    to show loading hwile dtaa is not there , or its taking time ot come 
+    
+* cal api ? 
+
+* render data of api on screen 
+
+* make loading screen 
+
+* check loader 

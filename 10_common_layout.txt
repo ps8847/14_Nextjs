@@ -1,0 +1,12 @@
+
+* Make layout.js 
+    layout is very commmon as layout in reactjs but her w eeed to use {children} method ,  perofrmed on 10_common_layout_perform
+
+    Note :  the layout should be made in Layout.js only
+* Create a Naviagtion bar for login 
+* Add a STYLE FOR LOGIN
+* Interview quetsion 
+
+
+*  how cpmmon layout works in nextjs 
+* why user first letter capital in Link

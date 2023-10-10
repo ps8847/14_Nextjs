@@ -1,0 +1,15 @@
+
+* what is rednering
+
+* rendering environment 
+
+* component-level client and server rendering 
+
+* what is pre-rendering 
+
+* static generation 
+
+* server-sdie rendering 
+
+
+Just see these videos on youtube

@@ -1,0 +1,19 @@
+
+sometime we need to make or show only demo of some page sof our applictaion  .  we can make a separate build for them in nextjs 
+
+they will be like a html website : 
+
+simply just build yoyur website then go to the next.config.js and add this line there :
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+    output:"export"
+}
+
+module.exports = nextConfig
+
+ 
+and just simply run : npm run build
+
+
+after running that command , tehre wil be "out" folder . on click of that , you can flow the wesbite as html pages

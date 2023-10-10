@@ -1,0 +1,11 @@
+fetch dta in srver component 
+
+* create server components for products
+
+* make a function for call api
+
+* call api
+
+* render data
+
+All things pefrormed on 18_fetch_data_in_client_component_perform

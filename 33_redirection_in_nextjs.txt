@@ -1,0 +1,8 @@
+what is redriectiobn ? 
+
+    when we go to particular dadress of a website and gets landed on nother url is called rediection 
+redirect from componnet 
+
+redirect from config file 
+
+dynamic url redirect

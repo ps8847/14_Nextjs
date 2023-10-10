@@ -1,0 +1,12 @@
+
+what are segments of the route ?
+    http://localhost:3000/studentlist/1
+
+    segments are : studentlist , 1 
+
+    when ww try to access studentlist/1/735/hgjg7/       it iwll give 404 page not found .
+
+    to overcome this we use segments
+how to get all segments of route 
+
+    performed on 13_catch_all_segments_of_route_perform

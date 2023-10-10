@@ -1,0 +1,16 @@
+* what is dynamic route 
+     suppose we want to show the data of 1000 students
+
+     fo roll number 1 the route will be /data/student/10
+     fo roll number 2 the route will be /data/student/20
+     fo roll number 3 the route will be /data/student/30
+        :                                  :
+     fo roll number n the route will be /data/student/n   
+
+     will we make the manual routes for each student ? ofcourse not. here we will use dynamic routing 
+
+     performed on 12_dynamic_routing_perform
+
+* make a fodler and file for the dynamic route 
+* write code and navigate 
+* get dynamic route name 

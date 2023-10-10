@@ -1,0 +1,87 @@
+first prpgram in nextjs 
+
+* write fresh code in page.js 
+
+    export default function Home() {
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <h1>Home Page</h1>
+        </main>
+    )
+    }
+
+* make component
+
+    export default function Home() {
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <User />
+        <h1>Home Page</h1>
+        </main>
+    )
+    }
+
+    const User = () => {
+    return (
+        <div>
+        <h2>suer name is prince</h2>
+        </div>
+    )
+    }
+
+* reuse component 
+
+    export default function Home() {
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <User />
+        <User />
+        <User />
+        <User />
+        <User />
+        <h1>Home Page</h1>
+        </main>
+    )
+    }
+
+    const User = () => {
+    return (
+        <div>
+        <h2>suer name is prince</h2>
+        </div>
+    )
+    }
+
+* data passing in component 
+
+    export default function Home() {
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <User name="raju"/>
+        <h1>Home Page</h1>
+        </main>
+    )
+    }
+
+    const User = (props) => {
+    return (
+        <div>
+        <h2>USER name is {props.name}</h2>
+        </div>
+    )
+    }
+
+* interview questions 
+
+
+* is react code working with nextjs 
+    yes
+* what is component 
+    explained
+* how tro pass data in component 
+    explained
+* differnece between jaavscript and typescript 
+    js is automatic type conversion but in typescript we need to tell th type of data.
+    typescript is not understood by broweser
+* server side scripting vs client side scripting 
+    google it

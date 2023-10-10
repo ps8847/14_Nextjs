@@ -1,0 +1,36 @@
+
+* type of components in nextjs 
+* what is server component 
+
+    1) render on the server side 
+    2) by default , all components are server components 
+    3) they are closer to the backend
+    4) so be-related logic and code should wirte in server components 
+
+* what is client component 
+
+    1) render on client side
+    2) can make client components with 'use client' directive
+    3) all ui-related code and events should be written here.
+
+* where to use server component 
+* where to use client component 
+
+    both answers in image > 06_answer.webp
+
+* interview questions
+
+
+
+* component types based on rendering
+    that both 
+
+* clinet vs server component
+
+* can use both type of component together
+    yes
+
+
+
+*****************************************************************
+

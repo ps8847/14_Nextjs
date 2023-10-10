@@ -1,0 +1,27 @@
+
+* Download and install nodejs 
+    >> go to nodejs website and install TLS 
+    
+* install nextjs with npx 
+    >> npx create-next-app tute
+
+* config nextjs setup 
+    make basic configuration like this : 
+    
+        √ Would you like to use TypeScript? ... No
+        √ Would you like to use ESLint? ... Yes
+        √ Would you like to use Tailwind CSS? ... No
+        √ Would you like to use `src/` directory? ... Yes
+        √ Would you like to use App Router? (recommended) ... Yes
+        √ Would you like to customize the default import alias? ... Yes
+        √ What import alias would you like configured? ... @/*
+
+* run project 
+        npm run dev
+
+* make first change in the app 
+        go to this file and change any of its content : 
+            src/app/page.js
+
+* interview questions 
+        

@@ -1,0 +1,19 @@
+* get api with static data 
+
+* api for user detail and user list 
+
+* make a static db file 
+
+* make a user list api 
+
+* make a route for single-user api 
+
+* get request params 
+
+* filter result and test api 
+
+
+everything performed in the related fodler and the routes are : 
+
+    http://localhost:3000/api/users          :  full data
+    http://localhost:3000/api/users/2        :  with id

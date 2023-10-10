@@ -1,0 +1,20 @@
+* why use image component of nextjs 
+    it potimze the size of image
+* import and use image 
+
+* use html img tag 
+
+* config for image from other domain 
+
+    // do this following in the next.config.js
+    /** @type {import('next').NextConfig} */
+    const nextConfig = {
+        images:{
+            domains:["upload.wikimedia.org"]
+        }
+    }
+
+    module.exports = nextConfig
+
+
+* important props in netx image 

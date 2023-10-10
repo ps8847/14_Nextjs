@@ -1,0 +1,11 @@
+* what are static assets 
+    these are the files . when we build a productuionb build . then most of the files data got comporessed or minified . then these static assets not gets changed . they stay as they were before .
+
+    basically whatever is in the public folder they are static assets
+* how to use them in the nextjs code ?
+    use of images 
+
+    use of css 
+
+    use of js 
+

@@ -1,0 +1,8 @@
+
+* what is conditional layout 
+
+    it depends on us how we wnat to apply conditons the sample is at 11_conditoonal_Layout_perform oflder
+
+* get route name by the hook 
+* apply condition with route name 
+* interview question 

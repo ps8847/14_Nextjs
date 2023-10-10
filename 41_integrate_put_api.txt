@@ -1,0 +1,7 @@
+Integrate put api 
+
+* make new route for Put api 
+* make link from user List Page 
+* create form and define the state 
+* get current user details 
+* update details and call api

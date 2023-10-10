@@ -1,0 +1,16 @@
+Linking and Navigation 
+
+* what is linking and navigation ?
+
+    linking : like anchor tag 
+    navigatiton : like going to Another page on button click
+
+* how to make links ?
+* how ot navigate to another screen ?
+
+
+
+
+
+* two ways of navigating betwene routes 
+* differnce between link and navigation 

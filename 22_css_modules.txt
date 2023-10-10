@@ -1,0 +1,14 @@
+* how this is difficult from normal css 
+
+    * we import the classes as objects in modular but in normal css we simply import whole file and use that
+
+    in the 22_css_with_modules/01_normal_css >> we have cretaed two files Global.css and style.css in both we made same class with differnet color sin both files  ....  it creates mess when we saw the final result . it picks the style of the color we impoted secondly in layout.js 
+
+* make a modular css file 
+
+    * 
+
+* apply css module 
+
+* multiple css module 
+

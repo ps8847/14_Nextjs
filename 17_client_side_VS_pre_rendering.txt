@@ -1,0 +1,20 @@
+Client side vs PreRendering 
+
+* how to know rendering type 
+
+    go to the website .  open network tab . reload the page . if it will show the html code in preciew its server side rendered 
+
+* chekc result of rendering 
+
+    just click the resposne tab inside network afetr reload
+
+* why is it important
+
+    for seo and performance 
+
+* Seo with rendering 
+
+    it will have pre loaded page which basically is the major need in seo
+
+* how is SEO works 
+

@@ -1,0 +1,14 @@
+
+meta data  -> dtaa under <meta tag 
+
+1) what is dynamic meta data ?
+
+    to ste the dtaa dynamiclly is known as dynamic meta data
+
+2) what is the use of generateMetaData ?
+
+    to generate metadata
+
+3) how to use generateMetaData?
+4) wrong way to use meta data 
+5) use generatemetadata with multiple route 

@@ -1,0 +1,6 @@
+integrate deleet api 
+
+* make a component for delete user 
+* why need delete component 
+* call deleet api method 
+* test api with UI
