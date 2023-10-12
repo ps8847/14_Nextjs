@@ -1,0 +1,20 @@
+how to use mongodb atlas 
+
+* make an account mongodb atlas 
+
+    just go to this website and signup with google : https://www.mongodb.com/cloud/atlas/register
+
+* make project and cluster 
+
+    after signin justb make a anew project by giving the name simply and choose free plan
+
+        now click on build database and just follow the instructions 
+
+        //pass :
+
+
+* make aa database and collection 
+        cretae a databse and collection at there 
+* add data in collection 
+
+    simple add a document 

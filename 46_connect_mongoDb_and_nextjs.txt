@@ -1,0 +1,13 @@
+connect mongoDb and nextjs 
+
+* make a env file and username & password
+
+    at the root folder make a file .env.local 
+
+* make db colection 
+
+    
+
+* make schema for colection 
+* get data from mongodb to nextjs 
+* make sample api with db data 
