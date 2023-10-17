@@ -1,0 +1,7 @@
+integrated add product with api 
+
+* make link and page to add the product 
+* make input fields for adding products 
+* use state to get input field data 
+* call api to ad dproduct 
+* test api and data in mongodb collection 

@@ -1,0 +1,20 @@
+Save data in db with post api 
+
+* makr fucntion ot post api 
+* wirte code for saving dtaa 
+* get data from api request 
+* save product data in mongodb 
+* test api with postman
+
+
+in the end test the api with the following api : 
+
+http://localhost:3000/api/products    ,  POST 
+
+{
+        "name":"note 100",
+        "price":"766",
+        "color":"red",
+        "company":"iphone",
+        "category":"mobile"
+    }
