@@ -1,0 +1,5 @@
+update product with PUT API 
+
+* make a function for calling api 
+* where code for the put api method 
+* tets api and update record

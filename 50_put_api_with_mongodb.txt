@@ -1,0 +1,12 @@
+put api (update) mongodb 
+
+* make a new api route for put method 
+* write code for updatng the product 
+* tets api with postman 
+
+
+urls is : http://localhost:3000/api/products/652eb858e3954b0bbf840860  , method :PUT
+ body is : 
+{
+"name" : "updated name"
+}

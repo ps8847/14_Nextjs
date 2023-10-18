@@ -1,0 +1,6 @@
+Product list in mongodb 
+
+* make link and page for the prodict list 
+* re-create product list api 
+* get product on data with api 
+* display product list 

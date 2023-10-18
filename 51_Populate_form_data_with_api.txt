@@ -1,0 +1,10 @@
+populate form dtaa with api 
+
+* make api to get a single record 
+* make route for editing the product 
+* add input field ofr eidt product 
+* declare state for adding values in input fields 
+* call api and display data 
+* tets api with postman 
+
+api : http://localhost:3000/api/products/652eb858e3954b0bbf840860 , method get

@@ -18,6 +18,7 @@ export async function GET(){
         success = false;
     }
 
+    console.log(data);
     return NextResponse.json({result:data}, {success:success})
 }
 
