@@ -1,0 +1,8 @@
+upload imagr without library 
+
+* make a simple html form 
+* get image in the state 
+* make api for uploading images 
+* upoad the image and heck image in folder 
+
+performed in tuteperfrom7 

@@ -1,0 +1,18 @@
+deploy nextjs on vercel 
+
+* make netxjs project 
+* upload project on github 
+* signup/login on vercel.com 
+* connect vercel.com with github 
+* deploy project 
+* erro handling 
+* verify iste is dployed or not
+
+*****************************************
+
+will upload nextTuteDummy folder 
+
+1) link it to github directly 
+2) on vercel.com just simply link and uplaod it .
+
+in the end the live link is :  https://next-dummy-deploy.vercel.app/

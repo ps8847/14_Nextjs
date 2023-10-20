@@ -1,0 +1,62 @@
+why we should use nextjs 
+    * more features than reactjs 
+    * write code for backend code also 
+    * server side rendering 
+
+NextJs is frontend framework ?
+    * No , Nextjs is full stack framework 
+    * here we can write code for frontend as well as back end also.
+
+Can we connect database 
+    * Yes 
+    * any database that we can connect with Nodejs 
+
+what is server component 
+    * a component that executes on the server side 
+    * this is faster and good for seo also 
+
+what is client component 
+    * a component that executes on the client side 
+    * client side means , code will execute in browser 
+
+Feature in Next over React 
+    * Routing 
+    * Middleware 
+    * Server Component 
+    * Image optimizations 
+    * Font Optimization
+    * Backend point 
+
+Routing type in Nextjs 
+    * File sysrem-based routing 
+    * Need to make a new folder and file for new page 
+    * This feature come in nextjs 13 version 
+
+Where we should Recat or Next 
+    * In small application , we can use Recatjs 
+    * But in complex project we should use nextjs 
+
+Can we use Redux in nextJs 
+    * Yes 
+    * Almost app react package are supported in Nextjs 
+
+Default COMPONENT Type 
+    * server component 
+
+how to make client component 
+    * "use client" directive at the top on component 
+
+can we use event in server component 
+    * no ,
+    * we can use events in Client components only
+
+what is middleware 
+    * Middleware alows you to run code before a request is completed .
+    * e.g: Conditional redirection 
+
+environment variables use 
+    * put sensitive data 
+    * example : db usernmae and password 
+
+why server component better for SEO 
+    * search engine can easily read page content from server rendering 
