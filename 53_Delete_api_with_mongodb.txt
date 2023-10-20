@@ -1,0 +1,7 @@
+delete api with mongodb 
+
+* make api in delete product 
+* test api with postman 
+* integrate delete api with ui 
+* add no cache in get api 
+* test dtaa with mongodb 

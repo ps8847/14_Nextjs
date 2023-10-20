@@ -1,0 +1,26 @@
+
+                Next vs Reactjs 
+
+what is reactjs -> a javascript library 
+what is nEXTJS -> a recatjs framework 
+
+Reactjs -> * a javascript libraray 
+           * client side rendering of ui element 
+           * need to add routing and other package 
+           * reactjs official website recommend use framework like reactjs 
+           * easy and less concept for learning 
+           * just need javascript for start with react 
+           * good for small scale app 
+           * client-side rendering
+
+NextJs ->  * a reactjs framwork 
+            * server side rendering of ui element 
+            * many packages are already added in framework 
+            * Nextjs is a framework that provide many features 
+                1) routing 
+                2) server side rendering 
+                3) middleware etc
+            * need reactjs and jaavscript knowledge 
+            * learning curve is more than reactjs 
+            * good for big apps 
+            * help in SEO too as provide server-side rendering
