@@ -1,0 +1,6 @@
+nextjs and rtk installation 
+
+* make nextjs project >> npx create-next-app reduxrtkperform1    with :    no , yes , no , yes, yes , yes 
+* install redux and redux toolkit  >> npm install @reduxjs/toolkit react-redux
+* interview questions 
+

@@ -1,0 +1,27 @@
+* why need redux toolkit 
+
+    to make the data flow optimized in react/nextjs applications .
+    in normal react js we need prop drillig to get the and pass the dtaa from one compone tto another componet or pages .
+    but this flow is made easy and comfortable with redux 
+
+* redux vs redux toolkit 
+
+    1) Both has same purpose and use 
+    2) We need to write more code in Redux 
+    3) Redux Toolkit is wrapper of Redux 
+    4) Section and reducer come under Slice 
+
+* what we will learn in this course 
+
+    1) How to setup redux toolkit in nextjs 
+    2) how to redux toolkit works 
+    3) redux toolkit artitecture and folder structure 
+    4) pass data component to RTK and vice versa 
+    5) API call with redux toolkit 
+    6) interview questions 
+
+* why should you watch this course 
+
+
+**********************************************
+
