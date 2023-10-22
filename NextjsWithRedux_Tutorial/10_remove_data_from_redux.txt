@@ -1,0 +1,6 @@
+Remove data from redux 
+
+    * make action for remove dtaa in slice 
+    * make remove button with search user 
+    * call action on button click 
+    * wirte logic to remove data from redux 

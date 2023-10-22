@@ -1,0 +1,8 @@
+redux dev tools 
+
+    * install redux dev tool extention 
+    * use of redux dev tools 
+    * check stored data in redux 
+    * check action iwth dev tool 
+
+as simple as using dev tools 

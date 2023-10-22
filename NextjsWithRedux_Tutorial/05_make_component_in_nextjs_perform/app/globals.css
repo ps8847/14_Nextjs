@@ -8,8 +8,6 @@
   padding: 10px;
   margin-top: 10px;
   border: 1px solid skyblue;
-  max-height: 400px;
-  overflow-y: scroll;
 }
 
 .add-user-input {
@@ -18,8 +16,6 @@
   display: block;
   text-align: center;
 }
-
-
 .add-user-input::placeholder{
   text-align: center;
 }
@@ -30,14 +26,4 @@
   margin-top: 20px;
   background: purple;
   color: white;
-}
-
-.user-item{
-  background-color: skyblue;
-  margin-top: 10px;
-  padding: 5px;
-  border-radius: 5px;
-  width: 400px;
-  display: flex;
-  justify-content: space-between;
 }

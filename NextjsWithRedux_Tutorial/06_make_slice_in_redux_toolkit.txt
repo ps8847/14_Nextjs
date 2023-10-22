@@ -1,0 +1,11 @@
+make slice in redux toolkit 
+
+    * what is slice in RTK 
+    * use of slice 
+    * write code for slice 
+
+
+What is slice ? 
+
+    * a slice is a collection of redux reducer logic and actions for a single feature in your app 
+    * in slice we defined action and reducer in single file 

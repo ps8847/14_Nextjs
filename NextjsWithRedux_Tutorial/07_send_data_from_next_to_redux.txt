@@ -1,0 +1,6 @@
+send data from next to redux 
+
+    get data from input field to state 
+    import action function from slice 
+    use dispatch hook for sned data in actions 
+    chekc data in Slice

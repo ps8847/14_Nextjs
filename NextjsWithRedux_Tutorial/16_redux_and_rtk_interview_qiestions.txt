@@ -1,0 +1,71 @@
+top redux inetrview quetsions 
+
+1) core principles of redux ?
+    * single srouce of truth 
+    * state is read-only 
+    * changes are made with pure functions 
+
+2) what is redux ?
+    * reedux is state management library 
+    * with redux we can share data between components 
+    * redux can use with any js framework or library 
+    * like react,nextjs,angular or with core js also 
+
+3) can we cretae 2 store in redux 
+    No , we can create only single store in redux (preferred)
+
+4) redux vs RTK 
+    * redux is a state managemet library 
+    * RTK is a wrapper over the redux 
+    * so RTK is easy to use 
+    * RTK file structure is simpler to redux 
+
+5) what is useDispatch 
+    * hook in redux 
+    * used to pass data from component to redux store 
+
+6) dfferneec betwene store and state ? 
+    * the store is an object that holds the entire state of the application 
+    * the state is the data that the applictaion needs to render its ui
+
+7) what is provider in react-redux 
+    * the provider is a componet in react-redux 
+    * makes redux store avaailable to any components of application 
+
+8) popular redux middleware 
+    * redux thunk 
+    * redux saga 
+    * redux observable 
+
+9) will redux data persist after refresh app 
+    * no 
+    * redux persisst library or localStorage can be used for this 
+
+10) what is slice in redux-toolkit 
+    a slice in redux toolkit is a collection of redux reducer logic and actions for a single feature in your app 
+
+11) where we should not use redux 
+    * small and simple applications 
+    * applictaions without complex state managememt needs 
+    * applications with a different state management library 
+
+12) redux is uni-directional or bi-directional 
+    * uni-directional 
+    * redux data can flow in one driection only 
+
+13) main parts of redux 
+    * actions 
+    * reducer 
+    * store 
+    * provider 
+
+14) alternative of redux 
+    * MobX
+    * Recoll 
+    * Context api 
+
+15) how to debug redux 
+    * use the redux devtools extentsion 
+    * log actions and state changes 
+    * use unit tests 
+    * browser debugger

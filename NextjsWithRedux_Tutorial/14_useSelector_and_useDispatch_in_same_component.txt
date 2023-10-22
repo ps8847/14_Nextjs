@@ -1,0 +1,6 @@
+useSelector and useDispacth in same compoennt 
+
+    * make ui eleements 
+    * set data to redux store 
+    * get data from redux store 
+    * display data on ui 

@@ -1,0 +1,6 @@
+make component in nextjs 
+
+    * make add user compoennt 
+    * make user list component 
+    * add style for components 
+    

@@ -1,0 +1,6 @@
+redux data between pages 
+
+    * make page in nextjs 
+    * make link for page 
+    * get dtaa from redux 
+    * add style

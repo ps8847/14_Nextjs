@@ -1,0 +1,6 @@
+api call with redux toolkit 
+
+    * make page for display api data 
+    * make api call in slice 
+    * make reducer for api call 
+    * display api data on ui 

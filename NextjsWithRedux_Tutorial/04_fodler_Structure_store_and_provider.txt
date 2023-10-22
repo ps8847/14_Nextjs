@@ -1,0 +1,6 @@
+folder strcture , store & provider 
+
+    * make folder and file 
+    * make store 
+    * make provider 
+    

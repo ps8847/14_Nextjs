@@ -1,0 +1,5 @@
+get_data_from_redux_to_nextjs 
+
+    * import useSelector hook 
+    * display list of users 
+    * add style with user list

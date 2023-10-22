@@ -1,0 +1,20 @@
+makea a second slice 
+
+    * define initila staate 
+    * make slice 
+    * add reducer 
+    * check flow 
+
+
+in the eprformed folder :
+
+    * -> in components/DisplayUsers.js
+    * -> in removeUser/Page.js 
+
+    Just updated this : 
+
+          const userData = useSelector((data) => data.users); 
+    
+    to this : 
+
+          const userData = useSelector((data) => data.usersData.users);

@@ -1,0 +1,6 @@
+redux with local storage 
+
+    * why need redux with locla storage 
+    * store redux data in local storage 
+    * get data from local storage to redux storage 
+    * test flow 
